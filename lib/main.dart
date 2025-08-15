@@ -10,6 +10,6 @@ void main() {
   tablet.getDescription();
   var printer = Printer('Canon', 2010);
   printer.getDescription();
-  var smartphone = Smartphone('Iphone 16', 2024);
+  var smartphone = Smartphone('Iphone 16 Pro', 2024);
   smartphone.getDescription();
 }
